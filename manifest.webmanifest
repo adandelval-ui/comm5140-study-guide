@@ -1,0 +1,10 @@
+{
+  "name":"COMM 5140 Qualitative Methods Study Guide",
+  "short_name":"COMM 5140",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#D8E1E8",
+  "theme_color":"#304674",
+  "icons":[{"src":"./icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
